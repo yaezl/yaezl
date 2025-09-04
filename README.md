@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="70%" />
+  <img src="assets/totorolluvia.jpg" alt="Banner" width="60%" />
 </p>
 
 <h1 align="center">¡Hola! Soy <b>Yael</b> ✨</h1>
