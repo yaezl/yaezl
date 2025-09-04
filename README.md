@@ -77,30 +77,11 @@
 </p>
 
 
-
----
-
-<details>
-  <summary><b>📊 Stats de GitHub (clic para expandir)</b></summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yaezl&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaezl&layout=compact&theme=tokyonight" height="150"/>
-</details>
-
 ---
 
 ### 🤝 Contacto
-<p align="center">
-  <a href="mailto:yaelzuna@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="www.linkedin.com/in/yael-zuna-9aab52297">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/yaezl">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+-📧: yaelzuna@gmail.com
+
 
 
 <!-- Footer -->
