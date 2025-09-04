@@ -61,9 +61,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/15890620?s=200&v=4" width="40" height="40"/> <!-- Helm -->
-  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" width="40" height="40"/> <!-- ArgoCD -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" height="40" alt="Helm"/>
+ <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="ArgoCD"/>
   <img src="https://img.icons8.com/color/48/000000/cloud.png" width="40" height="40"/>
 </p>
 
@@ -74,6 +73,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
 </p>
 
 
