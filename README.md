@@ -90,7 +90,7 @@
 ---
 
 ### 🤝 Contacto
-<p>
+<p align="center">
   <a href="mailto:yaelzuna@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
