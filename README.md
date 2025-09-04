@@ -13,7 +13,7 @@
 ### 🌱 Ahora
 <img align="right" src="assets/totoro.gif" width="150" />
 
-- 🚀 **Proyecto actual:** creación de un *Marketplace de libros usados y nuevos*, con foco en facilidad de compra-venta y comunidad lectora.  
+- 🚀 **Proyecto actual:** creación de un *Marketplace de libros usados y nuevos*, con foco en facilidad de  compra-venta para la comunidad lectora.  
 - 🎓 **Último semestre universitario** en Desarrollo de Software.  
 - 📚 **Materias que curso actualmente:**
   - 🤖 Sistemas Inteligentes  
